@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DipakBc
-- 👀 I’m interested in pyhon programming
+- 👀 I’m interested in python programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me by my mail dipakkshetri004@gmail.com
